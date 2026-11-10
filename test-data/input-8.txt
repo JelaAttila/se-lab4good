@@ -1,0 +1,3 @@
+GT4500,2,0,0,0 
+TORPEDO,SINGLE # sets primaryfiredlast to true
+TORPEDO,SINGLE # tries to fire the secondary but it is empty so it has to go in the else statement and the primary is not empty so it fires(it is still red, i dreally dont know how)

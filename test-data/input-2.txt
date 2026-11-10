@@ -1,0 +1,4 @@
+# Create a ship with 2 in each but second always fails
+GT4500,2,0,2,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE # Fires 2 times, second should be fail
